@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/Desktop/nlp/chatbot-demo/models/model.tflearn"
+all_model_checkpoint_paths: "/root/Desktop/nlp/chatbot-demo/models/model.tflearn"
