@@ -6,7 +6,7 @@ click==6.6
 gunicorn==19.6.0
 itsdangerous==0.24
 requests==2.10.0
-tensorflow==1.14
+tensorflow==2.3.1
 numpy==1.16.2
 tflearn==0.3.2
 nltk==3.4.5
